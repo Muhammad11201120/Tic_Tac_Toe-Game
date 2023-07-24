@@ -1,0 +1,11 @@
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\bin\Debug\TikTakToeGame.exe.config
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\bin\Debug\TikTakToeGame.exe
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\bin\Debug\TikTakToeGame.pdb
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\obj\Debug\TikTakToeGame.csproj.AssemblyReference.cache
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\obj\Debug\TikTakToeGame.csproj.SuggestedBindingRedirects.cache
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\obj\Debug\TikTakToeGame.Form1.resources
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\obj\Debug\TikTakToeGame.Properties.Resources.resources
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\obj\Debug\TikTakToeGame.csproj.GenerateResource.cache
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\obj\Debug\TikTakToeGame.csproj.CoreCompileInputs.cache
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\obj\Debug\TikTakToeGame.exe
+D:\Programing\c#\winForms\ImageGame\TikTakToeGame\obj\Debug\TikTakToeGame.pdb
