@@ -33,7 +33,7 @@ namespace TikTakToeGame
         void EndGame()
         {
 
-            lblTurn.Text = "Game Over";
+            lblTurn.Text = "GAME OVER";
             switch ( GameStatus.winner )
             {
 
@@ -49,13 +49,13 @@ namespace TikTakToeGame
 
                 default:
 
-                    lblWinner.Text = "Draw";
+                    lblWinner.Text = " Draw";
                     break;
 
             }
 
             MessageBox.Show( "GameOver", "GameOver", MessageBoxButtons.OK, MessageBoxIcon.Information );
-
+            RestartGame();
         }
         public bool CheckValues( Button btn1, Button btn2, Button btn3 )
         {
@@ -206,51 +206,10 @@ namespace TikTakToeGame
 
         }
 
-        private void button1_Click( object sender, System.EventArgs e )
+        private void button_Click( object sender, System.EventArgs e )
         {
-            changeImage( button1 );
+            changeImage( ( Button ) sender );
         }
-
-        private void button2_Click( object sender, System.EventArgs e )
-        {
-            changeImage( button2 );
-        }
-
-        private void button3_Click( object sender, System.EventArgs e )
-        {
-            changeImage( button3 );
-        }
-
-        private void button4_Click( object sender, System.EventArgs e )
-        {
-            changeImage( button4 );
-        }
-
-        private void button5_Click( object sender, System.EventArgs e )
-        {
-            changeImage( button5 );
-        }
-
-        private void button6_Click( object sender, System.EventArgs e )
-        {
-            changeImage( button6 );
-        }
-
-        private void button7_Click( object sender, System.EventArgs e )
-        {
-            changeImage( button7 );
-        }
-
-        private void button8_Click( object sender, System.EventArgs e )
-        {
-            changeImage( button8 );
-        }
-
-        private void button9_Click( object sender, System.EventArgs e )
-        {
-            changeImage( button9 );
-        }
-
         private void btnReset_Click( object sender, System.EventArgs e )
         {
             RestartGame();
